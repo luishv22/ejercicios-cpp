@@ -1,3 +1,7 @@
+// Juego de movimiento en consola
+// Un pequeño programa en C++ que dibuja un escenario rectangular 
+// y permite mover un personaje usando el teclado.
+
 #include <iostream>
 
 int main()
