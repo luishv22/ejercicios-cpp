@@ -1,3 +1,5 @@
+// Programa de consola que organiza una lista de productos según un presupuesto disponible.
+
 #include <iostream>
 #include <vector>
 #include <string>
